@@ -12,3 +12,4 @@ Konstuerad av studenter för studenter
 + React
 + Bootstrap
 ```
+Skapad med bland annat React och Bootstrap
