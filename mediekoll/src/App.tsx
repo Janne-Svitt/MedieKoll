@@ -10,7 +10,7 @@ function App() {
   const [darkMode, setDarkMode] = useState("light");
   const [darkModeIcon, setDarkModeIcon] = useState(sunIcon);
   const [darkModeBackgroundColor, setDarkModeBackgroundColor] =
-    useState("grey");
+    useState("white");
 
   return (
     <>
